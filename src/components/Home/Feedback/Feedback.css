@@ -1,0 +1,25 @@
+.feedback img {
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.2), 0 4px 2px 0 rgba(0, 0, 0, 0.19);
+}
+
+h3 {
+    color: white;
+    text-shadow: 2px 2px 4px #000000;
+}
+
+h5 {
+    color:rgb(78, 189, 233);
+    text-shadow: 1px 1px 2px #000000;
+}
+
+blockquote {
+    font-family: 'Gloria Hallelujah', cursive;
+    font-size: 12px;
+}
+
+span {
+    font-size: 14px;
+}

@@ -1,0 +1,14 @@
+.about {
+    background-color: white;
+    height: 70vh;
+}
+
+.about p {
+    font-family: 'Cormorant', serif;
+    font-size: 20px;
+    border: 1px solid turquoise;
+    border-bottom: 3px solid rgb(25, 230, 209);
+    padding: 15px;
+    border-radius: 25px 25px 0px 0px;
+    height: 150px;
+}

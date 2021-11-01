@@ -1,0 +1,24 @@
+.service {
+    background-color:rgba(60, 122, 255, 0.514);
+    border-radius: 50px;
+    box-shadow: 0 4px 6px 0 rgba(3, 30, 119, 0.438), 0 1px 4px 0 rgba(76, 102, 101, 0.19);
+}
+
+.service img {
+    width: 100%;
+}
+
+h3 {
+    color: rgb(108, 247, 216);
+      font-family: 'Merienda', cursive;
+      font-size: 24px;
+}
+
+span {
+    color: black;
+}
+
+p {
+    font-family: 'Merienda', cursive;
+    font-size: 13px;
+}
