@@ -1,0 +1,56 @@
+[
+    {
+        "name": "Peter Jonshon",
+        "id": "pt01",
+        "gender": "Male",
+        "age": 42,
+        "profession": "HR Manager",
+        "feedbacks": "They have great service. Recommended",
+        "img": "https://image.freepik.com/free-photo/waist-up-shot-handsome-self-confident-cheerful-male-entrepreneur-has-broad-smile_273609-18909.jpg"
+    },
+    {
+        "name": "Anthonio Sam",
+        "id": "pt02",
+        "gender": "Male",
+        "age": 31,
+        "profession": "Marketing Officer",
+        "feedbacks": "Their service is very good. They deliver parcel very carefully",
+        "img": "https://image.freepik.com/free-photo/portrait-cheerful-bearded-african-american-man-has-happy-expression-smiles-broadly-has-white-perfect-teeth_273609-46019.jpg"
+    },
+    {
+        "name": "Luis Verdan",
+        "id": "pt03",
+        "gender": "Male",
+        "age": 26,
+        "profession": "Supply Chain Manager",
+        "feedbacks": "The best and fasted service I have got from their",
+        "img": "https://image.freepik.com/free-photo/red-haired-serious-young-man-blogger-looks-confidently_273609-16730.jpg"
+    },
+    {
+        "name": "Pavel Paulo",
+        "id": "pt04",
+        "gender": "Male",
+        "age": 29,
+        "profession": "Account Officer",
+        "feedbacks": "One of the best Courier Service I have ever seen",
+        "img": "https://image.freepik.com/free-photo/waist-up-portrait-handsome-serious-unshaven-male-keeps-hands-together-dressed-dark-blue-shirt-has-talk-with-interlocutor-stands-against-white-wall-self-confident-man-freelancer_273609-16320.jpg"
+    },
+    {
+        "name": "Navin Pan",
+        "id": "pt05",
+        "gender": "Male",
+        "age": 25,
+        "profession": "Sales Executive",
+        "feedbacks": "Their service and behavior is excellent",
+        "img": "https://image.freepik.com/free-photo/cheerful-indian-businessman-smiling-closeup-portrait-jobs-career-campaign_53876-129416.jpg"
+    },
+    {
+        "name": "Jhon Fedrik",
+        "id": "pt06",
+        "gender": "Male",
+        "age": 26,
+        "profession": "Finance Officer",
+        "feedbacks": "Their service made my task easy and saved my time",
+        "img": "https://image.freepik.com/free-photo/yeah-feeling-courage-readiness-achieve-success-confident-delighted-optimistic-african-american-bearded-man-raising-clenched-fists-celebration-triumphing-being-happy-with-good-result_176420-35027.jpg"
+    }
+]

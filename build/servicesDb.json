@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Same Day Delivery",
+        "id": "c01",
+        "fee": 150,
+        "description": "We ensure same day delivery",
+        "img": "https://i.ibb.co/VDxpK1d/image-04.png"
+    },
+    {
+        "name": "Cash On Delivery",
+        "id": "c02",
+        "fee": 120,
+        "description": "Pay your service fee after getting your product",
+        "img": "https://i.ibb.co/tbGtDD4/image-05.png"
+    },
+    {
+        "name": "Doorstep Delivery",
+        "id": "c03",
+        "fee": 180,
+        "description": "Get your delivery in your door. So no worry about your time management",
+        "img": "https://i.ibb.co/94KrgsV/image-02.png"
+    },
+    {
+        "name": "Secured Delivery",
+        "id": "c04",
+        "fee": 220,
+        "description": "We also provide Fragile product delivery with care",
+        "img": "https://i.ibb.co/RD41hpk/image-06.png"
+    },
+    {
+        "name": "Bulk Delivery",
+        "id": "c05",
+        "fee": 300,
+        "description": "You can get Bulk Delivery service starting from Taka 300",
+        "img": "https://i.ibb.co/kMJ3P6K/image-03.png"
+    },
+    {
+        "name": "Worldwide Delivery",
+        "id": "c06",
+        "fee": 1300,
+        "description": "Now you can send your parcel worldwide with at minimum cost Taka 1300",
+        "img": "https://i.ibb.co/SVfJLdx/image-01.png"
+    }
+]
