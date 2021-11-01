@@ -1,4 +1,4 @@
-# Project Name: PiPiLiCa Courier
+# Project Name: PiPiLiCa Courier Client Side
 
 ## Project Goal:
 * A Courier Service Website
