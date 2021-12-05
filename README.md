@@ -1,4 +1,4 @@
-# Project Name: PiPiLiCa Courier Client Side
+# Project Name: PiPiLiCa Courier
 
 ## Project Goal:
 * A Courier Service Website
@@ -6,8 +6,11 @@
 * Required Log-in to Booking and Manage Services
 * Google sign-in and Email sign-in enabled
 
-## Code Link:
-https://github.com/programming-hero-web-course1/tourism-or-delivery-website-client-side-githubkaium
+## Code Link(client):
+https://github.com/githubkaium/pipilica-courier-client-pp
 
 ## Live Site Link:
 https://pipilica-courier.web.app
+
+## Code Link(server):
+https://github.com/githubkaium/pipilica-courier-server-pp
